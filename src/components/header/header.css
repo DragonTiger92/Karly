@@ -408,6 +408,12 @@ body {
     brightness(40%) contrast(109%);
 }
 
+.menu li a:nth-child(n + 2) {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
 /* 카테고리 메뉴 1depths */
 .category {
   display: none;
@@ -558,6 +564,12 @@ body {
   flex-flow: row nowrap;
   justify-content: space-between;
   align-items: center;
+}
+
+.menu_scroll li a:nth-child(n + 2) {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
 }
 
 .menu_scroll .search_form input {
