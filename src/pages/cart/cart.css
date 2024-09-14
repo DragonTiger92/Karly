@@ -196,6 +196,7 @@ main {
 }
 .input_number input[type='number'] {
   -moz-appearance: textfield;
+  appearance: textfield;
 }
 
 .input_number button {
@@ -613,6 +614,7 @@ main {
 }
 .input_number input[type='number'] {
   -moz-appearance: textfield;
+  appearance: textfield;
 }
 
 .input_number button {
