@@ -1,4 +1,4 @@
-import{i as ye,g as ee,a as j,d as Se}from"./checkLogin-UNDA_AzC.js";import"./header-BGP4sVp0.js";function Ie(t){return`
+import{i as ye,g as ee,a as j,d as Se}from"./checkLogin-BAJPj-Cc.js";import"./header-CUl4pqro.js";function Ie(t){return`
   <li class="item_card">
   <a href="/Karly/src/pages/product_detail/index.html#${t.id}">
     <figure>
