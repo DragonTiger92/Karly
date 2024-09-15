@@ -30,6 +30,9 @@ jobs:
           VITE_PB_URL: ${{ vars.VITE_PB_URL }}
           VITE_PB_API: ${{ vars.VITE_PB_API }}
 
+      - name: Create .nojekyll file
+        run: echo "" > docs/.nojekyll
+
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
