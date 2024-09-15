@@ -33,9 +33,6 @@ jobs:
       - name: Create .nojekyll file
         run: echo "" > docs/.nojekyll
 
-      - name: List directory for debugging
-        run: ls -al docs
-
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
