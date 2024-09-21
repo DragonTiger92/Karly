@@ -1,10 +1,12 @@
-# Project 'Karly'
+# :city_sunset: Project 'Karly'
 
-## 개요
+[![Project 'Karly' 발표 자료](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/6b30bdb5-e9fe-4ecc-8cc2-d3d5c2c108ae)](https://docs.google.com/presentation/d/1DKqTBBRs951pF0c6P9nZ5QtY9kifBoBgmeiXymnqGH0/edit#slide=id.p1)
+
+## :coffee: 개요
 
 [Market Kurly](https://www.kurly.com/main)를 레퍼런스로 제작한 Market Karly의 피그마 시안을 바탕으로 Vanilla JS 기술만을 이용해서 제품을 제작하는 프로젝트
 
-## 특징
+## :sparkles: 특징
 
 - JavaScript 뿐만 아니라 CSS도 **보조 라이브러리 사용 X**
 
@@ -12,39 +14,39 @@
 
 - `스크럼 프로세스`를 차용하여 프로젝트 진행
 
-## 기술 스택
+## :computer: 기술 스택
 
 `Vite`, `Git`, `GitHub`, `HTML5`, `CSS3`, `JavaScript`, `PocketBase`, `Visual Studio`, `GitHub Pages`
 
-## 팀 구성
+## :family: 팀 구성
 
 멋쟁이사자처럼 프론트엔드 스쿨 8기 수강생 4명으로 구성
 
-### 송현규
+- **송현규**
 
-- 역할 : **팀장**
+  - 역할 : 팀장
 
-- 담당 업무 : 회원가입 페이지, 로그인 페이지 제작
+  - 담당 업무 : 회원가입 페이지, 로그인 페이지 제작
 
-### 김용범
+- **김용범**
 
-- 역할 : **스크럼 마스터**
+  - 역할 : 스크럼 마스터
 
-- 담당 업무 : 제품 목록 페이지 및 제품 상세 페이지 제작, 발표 자료 컨텐츠 제작, 발표
+  - 담당 업무 : 제품 목록 페이지 및 제품 상세 페이지 제작, 발표 자료 컨텐츠 제작, 발표
 
-### 박예진
+- **박예진**
 
-- 역할 : **서기**
+  - 역할 : 서기
 
-- 담당 업무 : 노션 관리, 헤더 컴포넌트 및 메인 페이지 제작, 발표 PPT 제작
+  - 담당 업무 : 노션 관리, 헤더 컴포넌트 및 메인 페이지 제작, 발표 PPT 제작
 
-### 조유나
+- **조유나**
 
-- 역할 : **총무**
+  - 역할 : 총무
 
-- 담당 업무 : 푸터 컴포넌트와 장바구니 페이지 제작, README 작성
+  - 담당 업무 : 푸터 컴포넌트와 장바구니 페이지 제작, README 작성
 
-## 프로젝트 자료
+## :books: 프로젝트 자료
 
 ### 배포 링크
 
@@ -54,33 +56,49 @@
 
 ### 기타
 
+- :package: 의뢰인 요구 사항
+
+  [https://www.notion.so/10835633cd8c80168940ddabb278a54c?pvs=4](https://www.notion.so/10835633cd8c80168940ddabb278a54c?pvs=4)
+
 - :file_folder: **[기능 정의서](https://docs.google.com/spreadsheets/d/1u4vWIQy6U2TnrtsBtA_hJqDMsRjy-KHzLwP8ZNa05DE/edit?usp=sharing)**
 
-## 프로젝트 협업 툴
+## :wrench: 프로젝트 협업 툴
 
-- [GitHub](https://github.com/FRONTENDSCHOOL8/Karly)
+- ![GitHub](src/assets/icons/github.png) **GitHub**
 
-  - `Issues & Milestones` : 일정 관리 및 백로그 생성
+  - 사용 기능
 
-  - `Pull Requests`
+    - `Issues & Milestones` : 일정 관리 및 백로그 생성
 
-    - Template를 만들어 PR 품질 향상 제고
+    - `Pull Requests`
 
-  - `Projects`
+      - Template를 만들어 PR 품질 향상 제고
 
-    - Table을 생성하여 backlog 관리
+    - `Projects`
 
-  - `Wiki` : 데일리 스크럼 등 회의 내용 관리
+      - Table을 생성하여 backlog 관리
 
-- **Discord**
+    - `Wiki` : 데일리 스크럼 등 회의 내용 관리
 
-  - 보이스 채널을 사용하여 실시간 소통
+  - ['Karly' GitHub repository link](https://github.com/FRONTENDSCHOOL8/Karly)
 
-  - `Webhooks` 기능을 이용하여 GitHub issue, PR 생성 등의 업데이트 사항을 실시간으로 공유
+- ![Discord](src/assets/icons/discord.png) **Discord**
 
-- [Notion](https://www.notion.so/Vanilla-Project-Karly-10335633cd8c80b99ae6f526752d06ef?pvs=4) : 프로젝트 목표 및 트러블 슈팅 방법, 기능 정의서 등을 올려놓아 쉽게 필요한 자료에 접근할 수 있도록 운용
+  - 사용 방식
 
-## 컨벤션
+    - 보이스 채널을 사용하여 실시간 소통
+
+    - `Webhooks` 기능을 이용하여 GitHub issue, PR 생성 등의 업데이트 사항을 실시간으로 공유
+
+- ![Notion](src/assets/icons/notion.png) **Notion**
+
+  - 사용 방향
+
+    - 프로젝트 목표 및 트러블 슈팅 방법, 기능 정의서 등을 올려놓아 쉽게 필요한 자료에 접근할 수 있도록 운용
+
+  - ['Karly' project notion link](https://www.notion.so/Vanilla-Project-Karly-10335633cd8c80b99ae6f526752d06ef?pvs=4)
+
+## :newspaper: 컨벤션
 
 ### 코딩 컨벤션
 
@@ -136,7 +154,7 @@
 
 - `on hold` : 작업 중지 상태
 
-## 제품 소개
+## :blush: 제품 소개
 
 ### 헤더 및 메인 페이지
 
@@ -206,7 +224,7 @@
 | :--------------------------------------------------------------------------------------------: |
 | ![cartScreen](https://github.com/user-attachments/assets/79d8f566-9b09-4edd-b7a7-6e3a82d3b2b1) |
 
-## 제작 일정
+## :calendar: 제작 일정
 
 - **2024.1.4 ~ 2024.1.16**
 
@@ -216,53 +234,3 @@
 | 중간 점검 |         2024. 01. 09.         |             진행 내용 피드백             |
 |    2차    | 2024. 01. 10. ~ 2024. 01. 15. | JS 작업 및 re-factoring, 배포, 발표 준비 |
 | 데모 데이 |         2024. 01. 16.         |                   발표                   |
-
-## 기타 사항
-
-### 발표 자료
-
-[![Project 'Karly' 발표 자료](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/6b30bdb5-e9fe-4ecc-8cc2-d3d5c2c108ae)](https://docs.google.com/presentation/d/1DKqTBBRs951pF0c6P9nZ5QtY9kifBoBgmeiXymnqGH0/edit#slide=id.p1)
-
-- 링크: [https://docs.google.com/presentation/d/1DKqTBBRs951pF0c6P9nZ5QtY9kifBoBgmeiXymnqGH0/edit#slide=id.p1](https://docs.google.com/presentation/d/1DKqTBBRs951pF0c6P9nZ5QtY9kifBoBgmeiXymnqGH0/edit#slide=id.p1)
-
-### 의뢰인 요구 사항
-
-- 슬라이드가 필요한 ui에서는 [**swiper.js**](https://swiperjs.com/)를 사용해주세요.
-
-  - 각 슬라이드를 데이터로 받아 동적으로 렌더링 되도록 만들어주세요.
-
-  - 슬라이드의 `prev`, `next` 버튼도 구현해주세요.
-
-  - 키보드 키로도 작동되도록 구현해주세요.
-
-- [localStorage](https://developer.mozilla.org/ko/docs/Web/API/Window/localStorage)를 사용하여 “최근 본 항목”의 UI를 구성해주세요.
-
-- “마이크로 애니메이션”이 필요하다면 추가해주세요.
-
-- “회원가입 기능”을 구현해주세요.
-
-  - 최소한 이메일, 비밀번호 입력 필드(`input`), 제출 버튼(`button`)을 가지도록 구성해주세요.
-
-- 이메일과 비밀번호의 유효성을 확인합니다.
-
-  - 이메일 조건 : 최소 `@`, `.` 포함
-
-  - 비밀번호 조건 : 특수문자 포함 최소 6자 - 최대 16자
-
-  - 이메일과 비밀번호가 모두 입력되어 있고, 조건을 만족해야 제출 버튼이 활성화 되도록 구현해주세요.
-
-- 회원가입을 통해 사용자(user)를 생성하고 관리합니다.
-
-  - 데이터 통신을 통해 유저를 생성하고 관리해주세요
-
-  - 유저의 회원을 탈퇴할 수 있는 기능을 구현해주세요
-
-  - 로그인된 유저를 인식하여 UI를 다르게 랜더링해주세요
-
-  - 로그인되지 않은 사용자면 회원가입 페이지로 리디렉션 시켜주세요
-
-  - 회원가입시 중복된 유저가 있는지 체크해주세요
-
-- 장바구니 기능을 구현해 주세요
-
-  - 사용자가 장바구니에 항목을 담으면 장바구니 페이지에 랜더링이 되도록 구현해 주세요.
