@@ -1,4 +1,4 @@
-# :city_sunset: Project 'Karly'
+# Project 'Karly'
 
 [![Project 'Karly' 발표 자료](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/6b30bdb5-e9fe-4ecc-8cc2-d3d5c2c108ae)](https://docs.google.com/presentation/d/1DKqTBBRs951pF0c6P9nZ5QtY9kifBoBgmeiXymnqGH0/edit#slide=id.p1)
 
@@ -56,9 +56,7 @@
 
 ### 기타
 
-- :package: 의뢰인 요구 사항
-
-  [https://www.notion.so/10835633cd8c80168940ddabb278a54c?pvs=4](https://www.notion.so/10835633cd8c80168940ddabb278a54c?pvs=4)
+- :green_book: **[의뢰인 요구 사항](https://productive-printer-b81.notion.site/8da1841590ad4b05b28ec0d0d61dae42)**
 
 - :file_folder: **[기능 정의서](https://docs.google.com/spreadsheets/d/1u4vWIQy6U2TnrtsBtA_hJqDMsRjy-KHzLwP8ZNa05DE/edit?usp=sharing)**
 
@@ -96,7 +94,7 @@
 
     - 프로젝트 목표 및 트러블 슈팅 방법, 기능 정의서 등을 올려놓아 쉽게 필요한 자료에 접근할 수 있도록 운용
 
-  - ['Karly' project notion link](https://www.notion.so/Vanilla-Project-Karly-10335633cd8c80b99ae6f526752d06ef?pvs=4)
+  - ['Karly' project notion link](https://dragontiger-seaweed-92.notion.site/Vanilla-Project-Karly-10335633cd8c80b99ae6f526752d06ef)
 
 ## :newspaper: 컨벤션
 
@@ -154,7 +152,7 @@
 
 - `on hold` : 작업 중지 상태
 
-## :blush: 제품 소개
+## :open_hands: 제품 소개
 
 ### 헤더 및 메인 페이지
 
