@@ -1,10 +1,16 @@
 # Project 'Karly'
 
+<br />
+
 [![Project 'Karly' 발표 자료](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/6b30bdb5-e9fe-4ecc-8cc2-d3d5c2c108ae)](https://docs.google.com/presentation/d/1DKqTBBRs951pF0c6P9nZ5QtY9kifBoBgmeiXymnqGH0/edit#slide=id.p1)
+
+<br />
 
 ## :coffee: 개요
 
 [Market Kurly](https://www.kurly.com/main)를 레퍼런스로 제작한 Market Karly의 피그마 시안을 바탕으로 Vanilla JS 기술만을 이용해서 제품을 제작하는 프로젝트
+
+<br />
 
 ## :sparkles: 특징
 
@@ -14,9 +20,13 @@
 
 - `스크럼 프로세스`를 차용하여 프로젝트 진행
 
+<br />
+
 ## :computer: 기술 스택
 
 `Vite`, `Git`, `GitHub`, `HTML5`, `CSS3`, `JavaScript`, `PocketBase`, `Visual Studio`, `GitHub Pages`
+
+<br />
 
 ## :family: 팀 구성
 
@@ -28,11 +38,15 @@
 
   - 담당 업무 : 회원가입 페이지, 로그인 페이지 제작
 
+<br />
+
 - **김용범**
 
   - 역할 : 스크럼 마스터
 
   - 담당 업무 : 제품 목록 페이지 및 제품 상세 페이지 제작, 발표 자료 컨텐츠 제작, 발표
+
+<br />
 
 - **박예진**
 
@@ -40,11 +54,15 @@
 
   - 담당 업무 : 노션 관리, 헤더 컴포넌트 및 메인 페이지 제작, 발표 PPT 제작
 
+<br />
+
 - **조유나**
 
   - 역할 : 총무
 
   - 담당 업무 : 푸터 컴포넌트와 장바구니 페이지 제작, README 작성
+
+<br />
 
 ## :books: 프로젝트 자료
 
@@ -52,7 +70,23 @@
 
 - :rocket: [https://dragontiger92.github.io/Karly/](https://dragontiger92.github.io/Karly/)
 
-  - `Test ID`: water222, `pw`: 123456!
+  <details>
+  <summary>:notebook: 테스트 ID와 비밀번호</summary>
+  <div markdown="1">
+
+  - **ID :** water222
+  - **비밀번호 :** 123456!
+
+  </div>
+  </details>
+
+<br />
+
+### ERD
+
+![Karly ERD](https://github.com/user-attachments/assets/f4cd143b-074b-4f38-9381-bf9aafd25544)
+
+<br />
 
 ### 기타
 
@@ -60,9 +94,11 @@
 
 - :file_folder: **[기능 정의서](https://docs.google.com/spreadsheets/d/1u4vWIQy6U2TnrtsBtA_hJqDMsRjy-KHzLwP8ZNa05DE/edit?usp=sharing)**
 
+<br />
+
 ## :wrench: 프로젝트 협업 툴
 
-- ![GitHub](src/assets/icons/github.png) **GitHub**
+- ![GitHub](https://github.com/user-attachments/assets/38b23279-b798-4667-a2bb-0d23e73bd985) **GitHub**
 
   - 사용 기능
 
@@ -80,7 +116,9 @@
 
   - ['Karly' GitHub repository link](https://github.com/FRONTENDSCHOOL8/Karly)
 
-- ![Discord](src/assets/icons/discord.png) **Discord**
+<br />
+
+- ![Discord](https://github.com/user-attachments/assets/6c2f8c57-2a94-40b5-80b4-13608c26060c) **Discord**
 
   - 사용 방식
 
@@ -88,13 +126,17 @@
 
     - `Webhooks` 기능을 이용하여 GitHub issue, PR 생성 등의 업데이트 사항을 실시간으로 공유
 
-- ![Notion](src/assets/icons/notion.png) **Notion**
+<br />
+
+- ![Notion](https://github.com/user-attachments/assets/727e3636-f608-4883-8f52-e4e1ea2c3d6b) **Notion**
 
   - 사용 방향
 
     - 프로젝트 목표 및 트러블 슈팅 방법, 기능 정의서 등을 올려놓아 쉽게 필요한 자료에 접근할 수 있도록 운용
 
   - ['Karly' project notion link](https://dragontiger-seaweed-92.notion.site/Vanilla-Project-Karly-10335633cd8c80b99ae6f526752d06ef)
+
+<br />
 
 ## :newspaper: 컨벤션
 
@@ -120,6 +162,8 @@
 
 - 설정한 `ESLint` 규칙을 통해 linting
 
+<br />
+
 ### 커밋 컨벤션
 
 - `Prefix`로 커밋의 종류 명기
@@ -131,6 +175,8 @@
   - `[complete]` : 완료
 
 - Prefix를 제외한 commit message는 `한글`로 작성
+
+<br />
 
 ### GitHub 이슈 라벨 컨벤션
 
@@ -152,6 +198,8 @@
 
 - `on hold` : 작업 중지 상태
 
+<br />
+
 ## :open_hands: 제품 소개
 
 ### 헤더 및 메인 페이지
@@ -170,21 +218,31 @@
 
 - 카테고리 영역 scroll bar 나타내기
 
+<br />
+
 |                                                        메인                                                        |
 | :----------------------------------------------------------------------------------------------------------------: |
 | ![a220b1cc15bda619](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/de349f73-2246-4b9f-af69-fff307d4e7f8) |
+
+<br />
 
 |                                              배너 캐러셀                                               |
 | :----------------------------------------------------------------------------------------------------: |
 | ![메인](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/4a90a96e-f308-4d98-b9be-cf32cd4d99a6) |
 
+<br />
+
 |                                         상품 캐러셀 타입 1                                          |
 | :-------------------------------------------------------------------------------------------------: |
 | ![3](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/71a8dfbe-b1eb-4f2a-8988-f8dc07a0dd1b) |
 
+<br />
+
 |                                           상품 캐러셀 타입 2                                            |                                               최근본상품                                                |
 | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
 | ![메인2](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/f3d056e9-c4a9-4beb-af34-00fbcb0b7cb6) | ![메인4](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/983b57b9-b5cb-44c7-96b6-cfbd6a675d9e) |
+
+<br />
 
 ### 로그인, 회원가입 페이지
 
@@ -194,13 +252,19 @@
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
 | ![login1](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/10b8d4fe-9294-441b-a712-081ce9f8fb0e) | ![login7](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/8150f15c-3949-40b0-8afc-d75180d065d4) |
 
+<br />
+
 |                                               로그인 기능                                                |                                       회원가입 - 이메일 중복 검사                                        |
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
 | ![login6](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/24b99a26-6db1-4497-b760-e8f936f1251e) | ![login4](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/32702723-b1d2-4947-b413-638edf35decb) |
 
+<br />
+
 |                                             새로운 회원 생성                                             |                        회원가입 - 아이디 유효성 검사, 회원가입 - 아이디 중복 검사                        |
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
 | ![login2](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/edfe5408-63e7-4474-9aef-998234e832f9) | ![login3](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/14139e2a-dc55-4352-b804-cdb826d6fad7) |
+
+<br />
 
 ### 제품 목록 및 상세 페이지
 
@@ -210,9 +274,13 @@
 | :---------------------------------------------------------------------------------------------------: |
 | ![productListScreen](https://github.com/user-attachments/assets/9c69518d-2b07-4d64-8aac-a0ef4e6e893c) |
 
+<br />
+
 |                                                        제품 상세 페이지                                                        |
 | :----------------------------------------------------------------------------------------------------------------------------: |
 | ![Honeycam_2024-01-15_19-52-31](https://github.com/FRONTENDSCHOOL8/Karly/assets/50475140/62c5c164-386a-4ae5-a552-ac486c4a152c) |
+
+<br />
 
 ### 장바구니 페이지
 
@@ -222,9 +290,11 @@
 | :--------------------------------------------------------------------------------------------: |
 | ![cartScreen](https://github.com/user-attachments/assets/79d8f566-9b09-4edd-b7a7-6e3a82d3b2b1) |
 
+<br />
+
 ## :calendar: 제작 일정
 
-- **2024.1.4 ~ 2024.1.16**
+- **2024. 01. 04. ~ 2024. 01. 16.**
 
 |   일정    |           개발기간            |                 진행내용                 |
 | :-------: | :---------------------------: | :--------------------------------------: |
